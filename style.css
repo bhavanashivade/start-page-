@@ -1,0 +1,185 @@
+.nav-menu {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(17, 5, 5);
+    float: left;
+
+
+
+}
+
+.nav-menu ul li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 25px;
+    /* margin-left: 230px; */
+    color: white;
+
+    margin-left: 40px;
+
+}
+
+
+.home {
+
+    height: 100vh;
+    width: 100%;
+
+    background-color: red;
+
+
+}
+
+.home h1 {
+
+    text-align: center;
+
+    padding-top: 40vh;
+
+    font-size: 50px;
+
+    color: white;
+
+}
+
+.home h5 {
+    text-align: center;
+
+    font-size: 20px;
+
+}
+
+.home button {
+
+    text-align: center;
+
+    height: 50px;
+    width: 120px;
+
+    margin-left: 100vh;
+
+    background-color: black;
+    color: white;
+
+
+}
+
+
+.about {
+
+    display: flex;
+    margin-right: 200px;
+
+    margin-left: 200px;
+
+    gap: 30px;
+
+}
+
+
+.about h2 {
+
+    padding-left: 50px;
+
+    margin-top: 80px;
+
+    font-size: 40px;
+
+
+}
+
+.about img {
+
+    margin-top: 100px;
+}
+
+
+.about p {
+    padding-left: 50px;
+}
+
+
+
+
+
+
+
+
+.about1 {
+
+    display: flex;
+    margin-right: 200px;
+
+    margin-left: 200px;
+
+    gap: 30px;
+
+}
+
+
+.about1 h2 {
+
+    padding-left: 50px;
+
+    margin-top: 80px;
+
+    font-size: 40px;
+
+
+}
+
+.about1 img {
+
+    margin-top: 80px;
+
+
+
+    height: 250px;
+    width: 250px;
+}
+
+
+.about1 p {
+    padding-left: 50px;
+}
+
+
+
+.about2 {
+    margin-top: 50px;
+    height: 30vh;
+    width: 100%;
+    background-color: rgb(102, 96, 96);
+}
+
+
+.about2 h1 {
+    text-align: center;
+    padding-top: 100px;
+
+    color: white;
+}
+
+
+
+.o {
+    height: 30vh;
+    width: 100%;
+    background-color: white;
+}
+
+
+.o .icon {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.o .icon i {
+    gap: 40px;
+    font-size: 25px;
+}
+
+.o .p h1 {
+    text-align: center;
+    font-size: 30px;
+}
