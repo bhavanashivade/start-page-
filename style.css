@@ -1,8 +1,20 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+
 .nav-menu {
     height: 70px;
     width: 100%;
     background-color: rgb(17, 5, 5);
     float: left;
+
+
+    position: fixed;
+
+    padding-top: 30px;
 
 
 
@@ -47,6 +59,10 @@
 
     font-size: 20px;
 
+    margin-top: 20px;
+
+    color: white;
+
 }
 
 .home button {
@@ -60,6 +76,8 @@
 
     background-color: black;
     color: white;
+
+    margin-top: 30px;
 
 
 }
@@ -85,6 +103,8 @@
 
     font-size: 40px;
 
+    padding-bottom: 30px;
+
 
 }
 
@@ -97,11 +117,6 @@
 .about p {
     padding-left: 50px;
 }
-
-
-
-
-
 
 
 
@@ -125,6 +140,8 @@
 
     font-size: 40px;
 
+    padding-bottom: 30px;
+
 
 }
 
@@ -147,7 +164,7 @@
 
 .about2 {
     margin-top: 50px;
-    height: 30vh;
+    height: 60vh;
     width: 100%;
     background-color: rgb(102, 96, 96);
 }
@@ -155,7 +172,7 @@
 
 .about2 h1 {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 180px;
 
     color: white;
 }
@@ -172,6 +189,7 @@
 .o .icon {
     margin-top: 100px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .o .icon i {
